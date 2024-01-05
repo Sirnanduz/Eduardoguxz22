@@ -12,19 +12,19 @@
 ## Languages and Tools:
 
 ### Programming Languages:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/>
-<img src="https://dart.dev/assets/shared/dart/icon/64.png" alt="Dart" width="40" height="40"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+<img align="left" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/>
+<img align="left" src="https://dart.dev/assets/shared/dart/icon/64.png" alt="Dart" width="40" height="40"/>
 
 ### Frameworks and Libraries:
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-<img src="https://reactjs.org/logo-og.png" alt="React" width="40" height="40"/>
-<img src="https://flutter.dev/images/favicon.png" alt="Flutter" width="40" height="40"/>
+<img align="left" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
+<img align="left" src="https://reactjs.org/logo-og.png" alt="React" width="40" height="40"/>
+<img align="left" src="https://flutter.dev/images/favicon.png" alt="Flutter" width="40" height="40"/>
 
 ### Tools and Technologies:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> 
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
 <!-- Agrega las demás herramientas -->
 
 ## GitHub Statistics:
