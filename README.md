@@ -23,6 +23,6 @@
 
 ##Stats
 
-<p>nbsp<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoguxz22&show_icons=true&locale=en&layout=compact" alt="eduardoguxz22" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoguxz22&show_icons=true&locale=en&layout=compact" alt="eduardoguxz22" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoguxz22&show_icons=true&locale=en" alt="eduardoguxz22" /></p>
