@@ -27,9 +27,9 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
-<!-- Agrega las demás herramientas -->
 
-### GitHub Statistics:
+
+# GitHub Statistics:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=eduardoguxz22&show_icons=true&locale=en&layout=compact)
 ![Statistics](https://github-readme-stats.vercel.app/api?username=eduardoguxz22&show_icons=true&locale=en)
