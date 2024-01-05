@@ -1,32 +1,23 @@
 # 🇵🇪 Hi , I'm Eduardo, a passionate frontend developer from Peru!
 
-**️ Profile Views:**   ** Languages and Tools:**
+![Imagen de perfil](https://example.com/image.jpg)
 
-**️ Programming Languages:**
+**Summary**
 
-- JavaScript  
-- TypeScript  
-- Dart
+Frontend developer with 5+ years of experience in building user-friendly and engaging web applications.
 
-** Frameworks and Libraries:**
+**Skills**
 
-- Angular  
-- React  
-- Flutter
+* Programming Languages: JavaScript, TypeScript, Dart
+* Frameworks and Libraries: Angular, React, Flutter
+* Tools and Technologies: Android, Bootstrap, Tailwind CSS, CSS3, Docker
 
-**⚙️ Tools and Technologies:**
+**Projects**
 
-- Android  
-- Bootstrap  
-- Tailwind CSS  
-- CSS3  
-- Docker
+* [My Awesome Project](https://github.com/eduardoguxz22/my-awesome-project)
+* [Another Awesome Project](https://github.com/eduardoguxz22/another-awesome-project)
 
-** Connect with me:**
+**Contact**
 
-[Twitter](https://twitter.com/theinfiniteedu1) • [LinkedIn](https://linkedin.com/in/eduardo-stefano-hernandez-vejarano-5ab5a6271)
-
-** GitHub Statistics:**
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=eduardoguxz22&show_icons=true&locale=en&layout=compact)](https://github.com/eduardoguxz22/)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardoguxz22&show_icons=true&locale=en)](https://github.com/eduardoguxz22/)
+[LinkedIn](https://linkedin.com/in/eduardoguxz22)
+[Twitter](https://twitter.com/theinfiniteedu1)
