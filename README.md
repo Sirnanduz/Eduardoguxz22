@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardoguxz22&label=Profile%20views&color=0e75b6&style=flat" alt="eduardoguxz22" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+M1GU3LBv.++I+am+currently+working+as+Back-End+Developer)](https://git.io/typing-svg)
 
 
 
