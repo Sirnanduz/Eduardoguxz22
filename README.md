@@ -1,16 +1,16 @@
-💫 About Me:
-🔭I am currently working on a project
+# 💫 About Me
+
+🔭 I am currently working on a project  
 🌱 I'm currently learning React and exploring modern frontend frameworks like Svelte and Vue.js.
 
-I am Eduardo Hernandez, a Backend Developer Expert in Node.js with a specialization in Secure Authentication and API Integration. Currently, I am working at Medical Import SAC and studying at Universidad Peruana Unión. With over three years of experience, I have a strong background in developing scalable tech solutions, focusing on RESTful APIs, microservices, and database optimization.
+I am Eduardo Hernandez, a **Backend Developer Expert in Node.js** with a specialization in **Secure Authentication and API Integration**. Currently, I am working at Medical Import SAC and studying at Universidad Peruana Unión. With over three years of experience, I have a strong background in developing scalable tech solutions, focusing on RESTful APIs, microservices, and database optimization.
 
-I have expertise in technologies such as Java Spring Boot, Node.js, and PostgreSQL. Additionally, I am expanding my knowledge in frontend and mobile development with frameworks like React.js, Angular, and Flutter. My work is driven by a focus on security, authentication, and automation within GNU/Linux environments.
+I have expertise in technologies such as **Java Spring Boot, Node.js, and PostgreSQL**. Additionally, I am expanding my knowledge in frontend and mobile development with frameworks like **React.js, Angular, and Flutter**. My work is driven by a focus on **security, authentication, and automation** within GNU/Linux environments.
 
-I am eager to contribute to complex projects, ensuring their success with my technical skills and dedication. I am also actively seeking opportunities as a Frontend Developer, Project Manager, Web Designer, Backend Developer, and Systems Analyst.
+I am eager to contribute to complex projects, ensuring their success with my technical skills and dedication. I am also actively seeking opportunities as a **Frontend Developer, Project Manager, Web Designer, Backend Developer,** and **Systems Analyst**.
 
 Feel free to connect with me to discuss potential collaborations or career opportunities.
 
-This "About Me" section is designed to showcase your current work, learning goals, and the breadth of your skills while making it clear that you are open to new opportunities.
 
 
 ## 🌐 Socials:
